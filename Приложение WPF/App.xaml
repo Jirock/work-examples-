@@ -1,0 +1,10 @@
+﻿<Application x:Class="LitDisto.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:LitDisto"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <FontFamily x:Key="FontAwesome">C:\Users\User\Desktop\LitDisto\packages\FontAwesome.WPF.4.7.0.9\lib\net40\FontAwesome.WPF.dll</FontFamily>
+    </Application.Resources>
+</Application>
+
